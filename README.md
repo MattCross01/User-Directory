@@ -7,7 +7,7 @@
 [![mitLicense](https://img.shields.io/badge/license-MIT-green?style=plastic)](https://choosealicense.com/licenses/bsd-3-clause/)
 
 
-- Link to live application: 
+- Link to live application: https://appuserdirectory.herokuapp.com/
 
 ## Usage 
 This was built with React.js to have a layout list of employees for easy access to contact infortmation. 
